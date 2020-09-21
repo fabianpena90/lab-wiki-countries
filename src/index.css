@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.countryDetails {
+  position: fixed;
+  top: 60px;
+  right: 60px;
+}
